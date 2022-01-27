@@ -2,3 +2,14 @@ baseURL = "https://scholarxcloud.github.io/ScholarXFeed.github.io/"
 languageCode = "en-us"
 title = "ScholarX Feed"
 theme="contrast-hugo"
+[params]
+  minimal = false
+  excerpts = false
+  description = "ScholarX Feed Blog"
+
+[menu]
+  [[menu.main]]
+    identifier = "Back to Home"
+    name = "Back to Home"
+    url = "https://scholarx.org/"
+    weight = 10
