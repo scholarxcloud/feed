@@ -1,0 +1,4 @@
+[submodule "scholarxfeed/public"]
+	path = scholarxfeed/public
+	url = https://github.com/scholarxcloud/ScholarXFeed.github.io.git
+	branch = main
